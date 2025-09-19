@@ -9,7 +9,7 @@ from aiogram.filters import Command
 logging.basicConfig(level=logging.INFO)
 
 # ⚠️ ВСТАВЬ СВОЙ ТОКЕН ЗДЕСЬ! ⚠️
-TOKEN = "8377511577:AAE_DQ8AYjK5cZLDgGEWt0r-Gwfpb1-HP_U"  # ЗАМЕНИ на свой токен!
+TOKEN "1234567890:ABCdefGHIjklMNopQRSTuvwXYZ"  # ЗАМЕНИ на свой токен!
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
